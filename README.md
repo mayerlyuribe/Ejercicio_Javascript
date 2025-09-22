@@ -14,3 +14,7 @@ tendrán la misma longitud.
 ## ejercicio 4.
 Escribe una función iterativa que dado un número entero n, retorne un array con todos los números
 enteros en orden decreciente desde n a 1.
+
+## ejercicio 5.
+Programa que llene un array con 10 números enteros que se leen por teclado. A continuación calcula
+y muestra la media de los valores positivos y la de los valores negativos del array.
