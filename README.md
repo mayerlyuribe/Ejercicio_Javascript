@@ -18,3 +18,8 @@ enteros en orden decreciente desde n a 1.
 ## ejercicio 5.
 Programa que llene un array con 10 números enteros que se leen por teclado. A continuación calcula
 y muestra la media de los valores positivos y la de los valores negativos del array.
+
+## ejercicio 6.
+Programa que llene un array con la altura de N personas y calcular la altura media. Calcular cuántas
+personas tienen una altura superior a la media y cuántas tienen una altura inferior a la media. El
+valor de N se pide por teclado y debe ser entero positivo.
