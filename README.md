@@ -10,3 +10,7 @@ termina cuando el numero sea negativo o Cero.
 ## ejercicio 3.
 Concatenar dos arrays A y B de la siguiente forma: A0, B0, A1, B1, A2, B2, ..., An, Bn. Los vectores
 tendrán la misma longitud.
+
+## ejercicio 4.
+Escribe una función iterativa que dado un número entero n, retorne un array con todos los números
+enteros en orden decreciente desde n a 1.
