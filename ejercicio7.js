@@ -7,7 +7,7 @@ for (let i = 1; i<= 10; i++){
 
     let name = prompt("ingrese el nombre del estudiante " + i);
     array_names.push(name);
-    
+
     let nota = parseFloat(prompt("ingrese la nota " + i));
     if (nota >= 0 && nota <= 10){
         array_notas.push(nota);
